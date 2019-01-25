@@ -1,0 +1,54 @@
+body {
+
+    background-color: black;
+    margin: auto;
+    width: 47%;
+}
+
+.button {
+
+    text-align: center;
+}
+
+h5 {
+
+    font-size: 60px;
+    color:  darkgreen;
+    text-align: center;
+
+}
+
+/** title **/
+
+h1 {
+
+    font-size: 20px;
+    color:  #bfff00;
+    text-align: center;
+}
+
+h7 {
+
+    font-size: 50px;
+    color:  #264d00;
+    text-align: center;
+}
+
+/** questions and out of time **/
+
+ul, .tfont {
+
+    color: #88cc00;
+    font-size: 40px;
+    text-align: center;
+}
+
+/** list and timer **/
+
+span, ax {
+    color: #336600;
+    font-size: 25;
+    text-align: center;
+}
+
+/** timeleft and answers **/
