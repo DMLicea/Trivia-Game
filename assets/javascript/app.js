@@ -62,7 +62,7 @@ $("#startB").on("click", function() {
 
 //variables
 
-    var timer = 3;
+    var timer = 30;
 
     var secs = document.getElementById("sec");
     
